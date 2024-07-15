@@ -1,6 +1,6 @@
 <h1>Suspicious luggage detection</h1>
 
-[![video](https://img.youtube.com/vi/KCMV2qzWD0U/0.jpg)]((https://www.youtube.com/watch?v=KCMV2qzWD0U))
+[![video](https://img.youtube.com/vi/KCMV2qzWD0U/0.jpg)](https://www.youtube.com/watch?v=KCMV2qzWD0U)
 
 <h3>Videos:</h3>
 <ol>
